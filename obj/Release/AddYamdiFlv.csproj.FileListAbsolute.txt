@@ -1,0 +1,8 @@
+C:\Users\黑脸花猫\Desktop\okbase.net\AddYamdiFlv\Bin\AddYamdiFlv.exe
+C:\Users\黑脸花猫\Desktop\okbase.net\AddYamdiFlv\Bin\AddYamdiFlv.pdb
+C:\Users\黑脸花猫\Desktop\okbase.net\AddYamdiFlv\AddYamdiFlv\obj\Release\AddYamdiFlv.csprojResolveAssemblyReference.cache
+C:\Users\黑脸花猫\Desktop\okbase.net\AddYamdiFlv\AddYamdiFlv\obj\Release\AddYamdiFlv.Form1.resources
+C:\Users\黑脸花猫\Desktop\okbase.net\AddYamdiFlv\AddYamdiFlv\obj\Release\AddYamdiFlv.Properties.Resources.resources
+C:\Users\黑脸花猫\Desktop\okbase.net\AddYamdiFlv\AddYamdiFlv\obj\Release\AddYamdiFlv.csproj.GenerateResource.Cache
+C:\Users\黑脸花猫\Desktop\okbase.net\AddYamdiFlv\AddYamdiFlv\obj\Release\AddYamdiFlv.exe
+C:\Users\黑脸花猫\Desktop\okbase.net\AddYamdiFlv\AddYamdiFlv\obj\Release\AddYamdiFlv.pdb
